@@ -1,0 +1,13 @@
+{
+  "name": "universe-web-game-engine",
+  "version": "0.1.0",
+  "description": "A modular TypeScript web game engine baseline.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

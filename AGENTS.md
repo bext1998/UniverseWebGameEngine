@@ -1,4 +1,4 @@
-﻿# AGENTS.md
+# AGENTS.md
 
 本檔案定義 Codex 與所有子代理在本專案中的工作規範。所有代理必須以 `docs/spec.md` 作為最高層級的產品與架構契約；若本檔與 `docs/spec.md` 發生衝突，以 `docs/spec.md` 為準。
 
